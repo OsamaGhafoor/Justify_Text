@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+    <me.biubiubiu.justifytext.library.JustifyTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Long Paragraphs for Her Copy and Paste: A well-written love paragraph makes your lover feel special. It’s much more than just a collection of words expressing your feelings for her. It’s emotionally charged, meaning that it was written with thoughtfulness, and you care enough to take the time piecing it up. Writing a love letter is not easy, especially if you want it to sound sincere. Unless you’re a professional writer, sometimes, expressing your emotions might seem like you’re putting on an act. So, how do you write a love letter that shows your true feelings?
+        implementation 'me.biubiubiu.justifytext:library:1.1'
+        Long Paragraphs for Her Copy and Paste: A well-written love paragraph makes your lover feel special. It’s much more than just a collection of words expressing your feelings for her. It’s emotionally charged, meaning that it was written with thoughtfulness, and you care enough to take the time piecing it up. Writing a love letter is not easy, especially if you want it to sound sincere. Unless you’re a professional writer, sometimes, expressing your emotions might seem like you’re putting on an act. So, how do you write a love letter that shows your true feelings?
+        implementation 'me.biubiubiu.justifytext:library:1.1'
+        Long Paragraphs for Her Copy and Paste: A well-written love paragraph makes your lover feel special. It’s much more than just a collection of words expressing your feelings for her. It’s emotionally charged, meaning that it was written with thoughtfulness, and you care enough to take the time piecing it up. Writing a love letter is not easy, especially if you want it to sound sincere. Unless you’re a professional writer, sometimes, expressing your emotions might seem like you’re putting on an act. So, how do you write a love letter that shows your true feelings?
+        implementation 'me.biubiubiu.justifytext:library:1.1'
+A love paragraph is no doubt an important part of a romantic relationship, so if you have been searching for ideas for writing helpful love letters, you are at the right place. If you are looking for suggestions on how to write the perfect long paragraph for your loved one, start your paragraph with something deeply personal. Check out these long paragraphs for her ideas below."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_margin="20sp"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</RelativeLayout>
